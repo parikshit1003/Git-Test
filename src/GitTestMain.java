@@ -13,6 +13,10 @@ public class GitTestMain {
         System.out.println(Constants.GIT_TEST);
 
         System.out.println(Constants.GIT_CHECKOUT);
+
+        Test02 test02 = new Test02();
+
+        test02.testMethod();
       
     }
 
