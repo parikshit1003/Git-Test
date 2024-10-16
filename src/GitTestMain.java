@@ -8,6 +8,8 @@ public class GitTestMain {
 
         test.testMethod();
 
+        System.out.println(Data.DATA);
+
     }
 
 }
