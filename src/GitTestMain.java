@@ -10,6 +10,10 @@ public class GitTestMain {
 
         System.out.println(Data.DATA);
 
+        System.out.println(Constants.GIT_TEST);
+
+        System.out.println(Constants.GIT_CHECKOUT);
+
     }
 
 }
