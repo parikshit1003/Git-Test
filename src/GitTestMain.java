@@ -2,11 +2,11 @@ public class GitTestMain {
 
     public static void main(String[] args){
 
-        Test01 test = new Test01();
+        Test01 test02 = new Test01();
 
         System.out.println("Git Test !!!!!");
 
-        test.testMethod();
+        test02.testMethod();
 
         System.out.println(Data.DATA);
 
